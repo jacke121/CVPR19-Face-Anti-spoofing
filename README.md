@@ -1,3 +1,4 @@
+无预训练
 # Code for ChaLearn Face Anti-spoofing Attack Detection Challenge @ CVPR2019 by SeuTao
 This is the source code for my solution to the [ChaLearn Face Anti-spoofing Attack Detection Challenge](https://competitions.codalab.org/competitions/20853#learn_the_details) hosted by ChaLearn. 
 ![image](https://github.com/SeuTao/CVPR19-Face-Anti-spoofing/blob/master/PNG/v1_fusion.png)
